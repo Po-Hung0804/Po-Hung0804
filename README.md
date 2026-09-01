@@ -1,13 +1,22 @@
 ## About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 👋 I'm Po Hung Sung, a student major in electrical engineering and computer  science in Chung Hsing University.
-1.  Now I'm a research assistant in NCHU Defense Key System Development Center.
-2.  I am mainly responsible for the **development integration of ROS2 with Unity for a combined virtual and real environment** and the visual recognition algorithms.
-3.  I am passionate about researching machine learning and the development of large language models.
-- 🌱 I’m currently learning ros2.
-- 💞️ I’m looking to collaborate with who have the passion to code.
-- 📫 How to reach me: My Emain is Aa09202571292@gmail.com
-## Skill 🧠
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py)](https://skillicons.dev)
+
+- 👋 I'm Po-Hung Sung, currently pursuing a Master's in Computer Science at the University of Illinois Urbana-Champaign (UIUC).
+- 🔬 Previously a Research Assistant at the NCHU Defense Key Systems Research Development Center, where I worked on:
+  - Integrating ROS2 with Unity for combined virtual and real-world robotics environments
+  - Visual recognition algorithms
+- 🚀 Passionate about machine learning research and large language model development
+- 📫 Reach me at: pohungs2@illinois.edu
+
+## Skills 🧠
+
+**Languages:** C, C++, Python, Java, C#
+**Version Control:** Git
+**Database:** SQL
+**3D Modeling & Simulation:** Blender, Omniverse
+**Embedded Systems:** STM32, Verilog
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,git,sqlite,blender)](https://skillicons.dev)
+
 <!---
 Po-Hung0804/Po-Hung0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
